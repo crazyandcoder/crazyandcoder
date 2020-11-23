@@ -1,1 +1,1 @@
-# crazyandcoder
+[![crazyandcoder's github stats](https://github-readme-stats.vercel.app/api?username=crazyandcoder&show_icons=true&count_private=true&theme=radical)](https://github.com/crazyandcoder/github-readme-stats)
