@@ -1,6 +1,6 @@
 
 
- 👋 我是crazyandcoder，android开发工程师，略微懂一点前端，服务端知识，一个三观比主角还正的技术人。
+我是crazyandcoder，android开发工程师，略微懂一点前端，服务端知识，一个三观比主角还正的技术人。
 
 ## Contact me 📱
 
