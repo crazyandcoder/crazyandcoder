@@ -18,6 +18,7 @@
 5. [awesome-practise](https://github.com/crazyandcoder/awesome-practise) ：从0到1实现全栈开发的步骤，包括数据的爬取，服务端接口的开发，UI设计，以及移动端的开发，从0到1实现一整套的流程。服务端：SpringBoot + MyBatis++ + MySql等，Android端：MVP + Rxjava + Retrofit + Dagger2 + EventBus等开源库，数据采集：python + Mysql等
 6. [WaveView](https://github.com/crazyandcoder/WaveView) ：自定义view实现的波浪动画进度条
 7. [awesome-study](https://github.com/crazyandcoder/awesome-study) ：关于kotlin,flutter,python等的从入门到精通的学习记录总结
+8. [UIHelper](https://github.com/crazyandcoder/UIHelper) ：UI 合集
 
 
 ## GooglePlay Project
