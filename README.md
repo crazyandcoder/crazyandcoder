@@ -21,10 +21,3 @@
 8. [UIHelper](https://github.com/crazyandcoder/UIHelper) ：UI 合集
 
 
-## GooglePlay Project
-1. [《左耳·心灵树洞》](https://play.google.com/store/apps/details?id=com.crazyandcoder.treehole) 一个可以宣泄情绪，吐露心声的地方。可以释放心情，诉说秘密的 app；
-2. [《弹幕专家》](https://play.google.com/store/apps/details?id=com.crazyandcoder.barrage.led) 一块手持 LED 显示的弹幕神器。支持各种属性，移动速度，字体大小，颜色，背景等。
-3. [《一帐通·快捷记账·对帐》](https://play.google.com/store/apps/details?id=com.crazyandcoder.financial) 记帐，对账 App，日常记帐 - 记录支出和收入、规划预算、计算结余，自动生成记帐数据统计图表，资金管理清晰易懂。
-4. [《左耳-圣经-免费》](https://play.google.com/store/apps/details?id=com.crazyandcoder.bible) 左耳圣经是一款免费的圣经阅读器，里面提供新约和旧约共 66 本图书免费阅读，同时提供每日灵修。
-5. [《最美古诗词-中华五千年诗词文化》](https://play.google.com/store/apps/details?id=com.crazyandcoder.poem) APP 共收录了先秦、两汉、魏晋、南北朝、隋代、唐代、五代、宋代、金朝、元代、明代、清代共 880000 首古诗词，内容覆盖了唐诗、宋词、元曲、古诗、楚辞、全唐诗、全宋词等经典之作，详细的注释，翻译和赏析，风格简洁，很好的展示了中国古典文化精髓，可以帮助文学爱好者更好的理解和背诵古诗词。
-6. [《AircraftWar》](https://play.google.com/store/apps/details?id=com.crazyandcoder.aircraftwar) A plane war game, the background is on Mars, destroy enemy planes and save mankind!。
